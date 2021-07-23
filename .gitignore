@@ -1,0 +1,9 @@
+ipch/
+*.sdf
+VideoColorFilter.opensdf
+VideoColorFilter.sdf
+VideoColorFilter.v11.suo
+VideoColorFilter/Debug/
+VideoColorFilter/Release/
+Debug/
+Release/
